@@ -1,0 +1,3 @@
+sht3x.c:15:6:sht3x_update	32	static
+sht3x.c:27:7:get_temperature	8	static
+sht3x.c:43:7:get_humidity	8	static
